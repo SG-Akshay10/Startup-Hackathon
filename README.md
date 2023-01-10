@@ -1,6 +1,17 @@
-# Startup-Hackathon
+# NIT-Hackathon
+## Capital Catalyst
 
-After dataset is preprocessed, we connect it to the SQL database(PostgreSQL) which eases our machine learning model
+Project from : 
+* Akshay S G - Shiv Nadar University , Chennai
+* Surya S - Shiv Nadar University , Chennai
+
+## Prerequisites for the project : 
+ * You need to have a postgre database created with the values of the Indian Startup.csv file loaded into it.
+ * Install all required libraries
+
+## Working of our project : 
+
+We connect SQL database(PostgreSQL) with our /code app.py file which is then preprocessed and the data is used in our machine learning model.
 
 ![database](https://user-images.githubusercontent.com/83088512/211532057-1fb18478-0465-4716-b91c-2ceb020e52a2.png)
 
