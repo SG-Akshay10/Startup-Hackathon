@@ -1,4 +1,4 @@
-# This folder conisit of the output images and videos of our project.
+## This folder conisit of the output images and videos of our project.
 
 ![database](https://user-images.githubusercontent.com/83088512/211531321-e208f018-67aa-4521-8096-bcdc55602561.png)
 
