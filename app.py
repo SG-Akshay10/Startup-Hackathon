@@ -31,7 +31,7 @@ pd.set_option('display.max_columns', None)
 warnings.filterwarnings('ignore')
 
  # Connect to the database
-conn = psycopg2.connect(host="localhost", user="postgres", password="sriheera", dbname="postgres")
+conn = psycopg2.connect(host="localhost", user="user", password="password", dbname="fbname")
 
 # Create a cursor
 cur = conn.cursor()
